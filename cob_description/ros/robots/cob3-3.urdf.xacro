@@ -56,11 +56,9 @@
   <xacro:cob_head_v3 name="head" parent="torso_upper_neck_tilt_link">
     <origin xyz="0 0.154 0" rpy="0 0 0" />
   </xacro:cob_head_v3>
-  
-  
+    
   <xacro:cob_sdh_v0 name="sdh" parent="arm_7_link">
     <origin xyz="0 0 0.02" rpy="0 0 1.5708" />
   </xacro:cob_sdh_v0>
-  
-  
+    
 </robot>
